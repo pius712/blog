@@ -8,7 +8,7 @@ const Header:React.FC = () =>{
 
     return (
         <HeaderBlock>
-            <Profile>
+            <Profile>ds
         </HeaderBlock>
     )
 
